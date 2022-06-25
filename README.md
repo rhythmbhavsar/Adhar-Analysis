@@ -1,5 +1,8 @@
 # Adhar-Analysis
 
+![image](https://user-images.githubusercontent.com/98228696/175771072-06b9f1d6-f4ff-4dac-b96e-66928bed4d39.png)
+
+
 The data refers to daily count of Total Aadhaar Generated, Enrolment Applications Rejected by state and district. Count is reflecting only the last updated date data. State and District information is collected from the information provided by Resident at the time of enrolment. Aadhaar Generated and Rejected is calculated once UIDAI successfully validates an enrolment and confirms approval or rejection of enrolment application. The date for which the details on count refers to has been mentioned in the file name. 
 
 ### Problem Statement :-
